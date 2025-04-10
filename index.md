@@ -1,7 +1,3 @@
----
-title: Generative AI & Web Scraping on demand
----
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>

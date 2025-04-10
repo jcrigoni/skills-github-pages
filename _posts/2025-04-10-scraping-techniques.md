@@ -1,3 +1,8 @@
+---
+title: "SCRAPING-TECHNIQUES"
+date: 2025-04-10
+---
+
 Rapport sur les techniques de crawling pour la collecte d'URLs
 Introduction
 Ce rapport documente l'approche utilisée pour crawler deux sites web différents (exemple1.com et exemple2.com) afin de collecter leurs URLs internes. L'objectif était de construire un inventaire complet des pages pour une analyse ultérieure.
